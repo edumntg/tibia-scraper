@@ -1,0 +1,1 @@
+TIBIA_URL="https://www.tibia.com"
